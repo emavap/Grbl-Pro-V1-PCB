@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:cnc-grbl-rescue
 LIBS:valves
 LIBS:power
 LIBS:device
@@ -1277,7 +1278,7 @@ F 3 "" H 2925 7550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L USB_B P2
+L USB_B-RESCUE-cnc-grbl P2
 U 1 1 57B3BD66
 P 6575 6950
 F 0 "P2" H 6775 6750 50  0000 C CNN
